@@ -1,4 +1,6 @@
-function verificaParOuImpar(elementoA) {
+function verificaParOuImpar
+
+    function verificaParOuImpar(elementoA) {
 
     let resultado;
     
@@ -11,4 +13,4 @@ function verificaParOuImpar(elementoA) {
     
     return resultado;
 
-}
+    }
